@@ -11,7 +11,7 @@ window.onload = () => {
             key : 'AIzaSyAdukdB6pwDKHEgqaGghV7TfqwtbDEfJRo'
         },
         headers : {
-            Origin : "https://hotel-api-test.vercel.app"
+            origin : "https://hotel-api-test.vercel.app"
         }
     })
     .then(response => {console.log(response)})
