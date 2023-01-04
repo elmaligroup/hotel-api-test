@@ -9,6 +9,9 @@ window.onload = () => {
             radius : "1500",
             type : "lodging",
             key : 'AIzaSyAdukdB6pwDKHEgqaGghV7TfqwtbDEfJRo'
+        },
+        headers : {
+            Origin : "https://hotel-api-test.vercel.app"
         }
     })
     .then(response => {console.log(response)})
