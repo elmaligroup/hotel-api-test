@@ -1,0 +1,129 @@
+{
+    "location_id": "294658",
+    "name": "Conrad İstanbul Bosphorus",
+    "description": "Eğer İstanbul'da sakin otel arıyorsanız, Conrad İstanbul Bosphorus tam size göre.\nİstanbul'un Taksim Meydanı (2, 3 km) ve Beyoğlu (3, 1 km) gibi en ünlü bazı yerlerine yakın olan Istanbul Conrad, turistler için harika bir seçim.\nSakin otel arayanlara Conrad İstanbul Bosphorus iyi bir seçenek. Odalarında düz ekran televizyon sunan işletme, konuklarına ayrıca ücretsiz wifi da sağlıyor.\nOtelde concierge, çatı terası ve oda servisi hizmetleri mevcut. Ayrıca konuklar havuz ve kahvaltı gibi olanaklardan yararlanabilir. İşletme bu sayede İstanbul seyahatine çıkanlar için gözde bir seçim. Aracıyla gelen konuklar için otopark hizmeti mevcut.\nEğer Hint restoranı seviyorsanız, yörenin bu sevilen mutfağını tadabileceğiniz Cafe Lumiere, Aladdin ve Musafir Indian Restaurant Since 2004, Istanbul Conrad'a oldukça yakın.\nYapılacak bir şey arıyorsanız, Dolmabahçe Palace'ye (1, 2 km), Ortaköy'e (1, 2 km) ve Beşiktaş'a (1, 5 km) uğrayarak güzel vakit geçirebilirsiniz. Üstelik hepsi de Conrad Istanbul'a yürüme mesafesinde.\nConrad İstanbul Bosphorus, yaklaşan ziyaretiniz süresince sizi misafir etmeyi dört gözle bekliyor.",
+    "web_url": "https://www.tripadvisor.com.tr/Hotel_Review-g293974-d294658-Reviews-Conrad_Istanbul_Bosphorus-Istanbul.html?m=66827",
+    "address_obj": {
+      "street1": "Cihannuma Mah Saray Cd No 5",
+      "street2": "",
+      "city": "İstanbul",
+      "country": "Türkiye",
+      "postalcode": "34353",
+      "address_string": "Cihannuma Mah Saray Cd No 5, İstanbul 34353 Türkiye"
+    },
+    "ancestors": [
+      {
+        "level": "City",
+        "name": "İstanbul",
+        "location_id": "293974"
+      },
+      {
+        "level": "Country",
+        "name": "Türkiye",
+        "location_id": "293969"
+      }
+    ],
+    "latitude": "41.04797",
+    "longitude": "29.00907",
+    "timezone": "Europe/Istanbul",
+    "phone": "011904449879",
+    "write_review": "https://www.tripadvisor.com.tr/UserReview-g293974-d294658-Conrad_Istanbul_Bosphorus-Istanbul.html?m=66827",
+    "ranking_data": {
+      "geo_location_id": "293974",
+      "ranking_string": "2.520 otel içinde 5 numara (İstanbul bölgesi)",
+      "geo_location_name": "İstanbul",
+      "ranking_out_of": "2520",
+      "ranking": "5"
+    },
+    "rating": "4.5",
+    "rating_image_url": "https://www.tripadvisor.com.tr/img/cdsi/img2/ratings/traveler/4.5-66827-5.svg",
+    "num_reviews": "7153",
+    "review_rating_count": {
+      "1": "74",
+      "2": "82",
+      "3": "272",
+      "4": "972",
+      "5": "5754"
+    },
+    "subratings": {
+      "0": {
+        "name": "rate_location",
+        "localized_name": "Yer",
+        "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+        "value": "4.5"
+      },
+      "1": {
+        "name": "rate_sleep",
+        "localized_name": "Uyku Kalitesi",
+        "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+        "value": "4.5"
+      },
+      "2": {
+        "name": "rate_room",
+        "localized_name": "Odalar",
+        "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+        "value": "4.5"
+      },
+      "3": {
+        "name": "rate_service",
+        "localized_name": "Hizmet",
+        "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+        "value": "4.5"
+      },
+      "4": {
+        "name": "rate_value",
+        "localized_name": "Değer",
+        "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+        "value": "4.5"
+      },
+      "5": {
+        "name": "rate_cleanliness",
+        "localized_name": "Temizlik",
+        "rating_image_url": "https://static.tacdn.com/img2/ratings/traveler/ss4.5.svg",
+        "value": "4.5"
+      }
+    },
+    "photo_count": "3631",
+    "see_all_photos": "https://www.tripadvisor.com.tr/Hotel_Review-g293974-d294658-m66827-Reviews-Conrad_Istanbul_Bosphorus-Istanbul.html#photos",
+    "price_level": "$$$",
+    "parent_brand": "Hilton Worldwide",
+    "brand": "Conrad Hotels & Resorts",
+    "category": {
+      "name": "hotel",
+      "localized_name": "Otel"
+    },
+    "subcategory": [
+      {
+        "name": "hotel",
+        "localized_name": "Hotel"
+      }
+    ],
+    "trip_types": [
+      {
+        "name": "business",
+        "localized_name": "İş",
+        "value": "1986"
+      },
+      {
+        "name": "couples",
+        "localized_name": "Çift",
+        "value": "1492"
+      },
+      {
+        "name": "solo",
+        "localized_name": "Yalnız seyahat",
+        "value": "382"
+      },
+      {
+        "name": "family",
+        "localized_name": "Aile",
+        "value": "2008"
+      },
+      {
+        "name": "friends",
+        "localized_name": "Arkadaş kaçamakları",
+        "value": "797"
+      }
+    ],
+    "awards": []
+  }
